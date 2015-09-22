@@ -1,3 +1,3 @@
 ### Hello-world
-_____________________________________________
+___________________
 This is the first journey with Github. Enjoy~
